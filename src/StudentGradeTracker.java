@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Student{
+  class Student{
     String name;
     int grade;
 
